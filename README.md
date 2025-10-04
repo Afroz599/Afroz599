@@ -70,7 +70,7 @@ I’m passionate about **Data Science, Analytics, and Python Development**, with
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-afroz-a3711531b)
 * 🎨 [Behance Portfolio](https://www.behance.net/mohammadafroz99)
-* 📧 Email: [mohammadafroz599@gmail.com](mailto:mohammadafroz599@gmail.com)
+* 📧 [afrozmohommad072@gmail.com](mailto:afrozmohommad072@gmail.com)
 
 ---
 
